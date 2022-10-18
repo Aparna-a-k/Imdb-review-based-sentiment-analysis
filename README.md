@@ -1,2 +1,3 @@
 # Imdb-review-based-sentiment-analysis
-A machine learning project for doing sentiment analysis on Imdb movie reviews.
+A machine learning project on sentiment analysis using Imdb movie reviews.
+
