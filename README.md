@@ -1,9 +1,10 @@
+# Imdb-review-based-sentiment-analysis
+A machine learning project on sentiment analysis using Imdb movie reviews.
+
+
 # Introduction
 Sentiment analysis (or opinion mining) is a natural language processing (NLP) technique used to determine whether data is positive, negative or neutral. Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs.Sentiment analysis of a movie review can rate how positive or negative a movie review is and hence the overall rating for a movie. Therefore, the process of understanding if a review is positive or negative can be automated as the machine learns through training and testing the data.
 
-
-# Imdb-review-based-sentiment-analysis
-A machine learning project on sentiment analysis using Imdb movie reviews.
 
 # About the dataset
 The dataset contains a set of 25,000 highly polar movie reviews for training, and 25,000 for testing. The dataset can be used for binary classification.It conatins reviews of different movies in text format,each review in a folder.
