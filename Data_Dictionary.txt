@@ -1,0 +1,10 @@
+1)Title:Imdb 50K movie review dataset
+
+2)source:Imdb
+
+3)Information about data: The dataset contains a set of 25,000 highly polar movie reviews for training, and 25,000 for testing. The dataset can be used for binary classification.It conatins reviews of different movies in text format,each review in a folder.
+
+4)Dataset link: http://ai.stanford.edu/~amaas/data/sentiment/
+
+
+
